@@ -216,9 +216,9 @@ const { answer } = await answerQuestionsAboutDocument({
 
 Having issues? We're here to help!
 
-- 📧 **Email:** sarangoutham2@gmail.com
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/SaranGoutham/EasyDox/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/SaranGoutham/EasyDox/discussions)
+- 📧 **Email:** siddiganeshvardhan@gmail.com
+- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/Ganesh-s-g-v/EasyDoxAI/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/Ganesh-s-g-v/EasyDoxAI/discussions)
 
 ---
 
